@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyExoPlayer</string>
+    <string name="title">Title</string>
+    <string name="Views">Views: 10M</string>
+    <string name="thumbnail">ThumbNail</string>
+    <string name="samplevideo">This is a sample Video</string>
+    <string name="add_samples">Add Samples</string>
+    <string name="error_unsupported_audio">Error Unsupported Audio</string>
+    <string name="error_unsupported_video">Error Unsupported Video</string>
+    <string name="cast_context_error">Cast Context Error</string>
+    <string name="media_route_menu_title">Media Route</string>
+    <string name="app_id">App ID</string>
+    <string name="play">Play</string>
+</resources>
